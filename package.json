@@ -4,8 +4,7 @@
   "description": "keeper is a note keeping app like google keep.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js",
-    "build": "yarn i"
+    "start": "node app.js"    
   },
   "author": "Abhay Raj Dunerya",
   "license": "MIT",
